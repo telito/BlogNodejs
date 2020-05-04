@@ -8,6 +8,6 @@ Projeto desenvolvido totalmente em nodejs
 - Logout
 - Registro
 - Publicação de posts
-- Visualizações do posts
+- Visualizações dos posts
 - Gerenciamento de perfil de usuario
 - SuperUsuario(admin)
